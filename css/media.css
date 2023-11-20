@@ -1,0 +1,16 @@
+@media (max-width: 1200px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 800px) {
+    .formflex {
+        flex-direction: column;
+        align-items: center;
+    }
+    .rightdiv {
+        width: 100%;
+        gap: 20px;
+    }
+}
